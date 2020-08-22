@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Profile](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)

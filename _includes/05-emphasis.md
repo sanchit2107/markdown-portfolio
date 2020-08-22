@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**My Interest**
+
+- _Full-Stack Development_
+- _Cloud Developement_
+- _Website Designing and Developing_
+- _Open-Source Contributions_
+- _Sharing my knowledge_
